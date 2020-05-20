@@ -1,7 +1,8 @@
 # Jenkins Docker container deployed by Terraform 12 with all the Jobs/Pipelines
 Prerequisites:
-- Installed Docker
-- Installed Terraform 12
+- Installed 'Docker'
+- Installed 'Terraform 12'
+- Installed 'jq'
 
 Create Docker image
 ```
